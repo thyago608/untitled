@@ -12,7 +12,7 @@ https://dribbble.com/shots/18147660/attachments/13345174?mode=media
 O projeto foi desenvolvido com as seguintes tecnologias:
 
 - [ReactJS](https://pt-br.reactjs.org/)
-- [ViteJS[(https://vitejs.dev/)
+- [ViteJS](https://vitejs.dev/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
