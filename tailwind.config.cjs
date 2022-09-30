@@ -6,6 +6,7 @@ module.exports = {
       transitionProperty: {
         spacing: "padding",
         borderColor: "border-color",
+        transitionBackground: "background-image",
       },
       gridTemplateColumns: {
         homeMobile: "1fr",
