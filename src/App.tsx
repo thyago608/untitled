@@ -1,7 +1,10 @@
+import { CreateAnAccount } from "./components/CreateAnAccount";
+import "./styles/main.css";
+
 function App() {
   return (
     <main>
-      <h2>Hello Untitled</h2>
+      <CreateAnAccount />
     </main>
   );
 }
