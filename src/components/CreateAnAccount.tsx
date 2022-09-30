@@ -1,4 +1,5 @@
 import { Coffee } from "phosphor-react";
+import { Form } from "./Form";
 
 export function CreateAnAccount() {
   return (
@@ -10,6 +11,7 @@ export function CreateAnAccount() {
           Let's get started with your 30 days free trial.
         </span>
       </div>
+      <Form />
     </aside>
   );
 }

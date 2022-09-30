@@ -2,7 +2,11 @@
 module.exports = {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      transitionProperty: {
+        spacing: "padding",
+      },
+    },
     fontFamily: {
       sans: ["Inter", "sans-serif"],
     },
