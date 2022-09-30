@@ -5,7 +5,11 @@ import { SignUpButton } from "./SignUpButton";
 export function CreateAnAccount() {
   return (
     <aside className="flex flex-col gap-4 px-2 py-6 md:px-8 bg-slate-50">
-      <DribbbleLogo size={40} color="#333" />
+      <DribbbleLogo
+        size={40}
+        color="#333"
+        className="lg:opacity-0 transition-opacity"
+      />
       <div className="flex flex-col lg:mt-6 mb-6">
         <h2 className="text-2xl font-bold text-[#333]">Create an account</h2>
         <span className="text-sm text-zinc-500">
