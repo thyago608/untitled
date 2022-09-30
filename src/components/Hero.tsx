@@ -32,7 +32,7 @@ export function Hero() {
       style={{ backgroundImage: `url('${backgroundImage}')` }}
     >
       <DribbbleLogo color="#FFF" size={50} />
-      <p className="text-zinc-50 text-3xl font-normal">
+      <p className="text-zinc-50 text-3xl font-medium">
         "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis
         cupiditate impedit placeat sint facere vel incidunt, quae quisquam fugit
         eveniet tempora perspiciatis, dolores ipsa obcaecati, hic enim ex at.
