@@ -7,6 +7,10 @@ module.exports = {
         spacing: "padding",
         borderColor: "border-color",
       },
+      gridTemplateColumns: {
+        homeMobile: "1fr",
+        homeDesktop: "5fr 2fr",
+      },
     },
     fontFamily: {
       sans: ["Inter", "sans-serif"],
