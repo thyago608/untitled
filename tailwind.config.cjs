@@ -5,6 +5,7 @@ module.exports = {
     extend: {
       transitionProperty: {
         spacing: "padding",
+        borderColor: "border-color",
       },
     },
     fontFamily: {

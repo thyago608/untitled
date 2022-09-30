@@ -13,7 +13,7 @@ export function Form() {
       <Input type="password" placeholder="password" />
       <button
         type="submit"
-        className="mt-5 w-[100%] h-10 bg-stone-900 text-zinc-100 text-sm rounded-[4px] hover:bg-stone-700 transition-colors"
+        className="mt-5 w-[100%] h-10 bg-stone-900 text-zinc-100 text-sm rounded hover:bg-stone-700 transition-colors"
       >
         Create account
       </button>

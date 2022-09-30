@@ -1,5 +1,6 @@
 import { Coffee } from "phosphor-react";
 import { Form } from "./Form";
+import { SignUpButton } from "./SignUpButton";
 
 export function CreateAnAccount() {
   return (
@@ -12,6 +13,7 @@ export function CreateAnAccount() {
         </span>
       </div>
       <Form />
+      <SignUpButton />
     </aside>
   );
 }
